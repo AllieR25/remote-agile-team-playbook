@@ -23,17 +23,20 @@ Remote Agile teams face unique challenges in communication, visibility, and velo
 ## 🚀 How to Use
 
 1. Use templates in `templates/` to guide your remote Agile ceremonies  
-2. Deploy scripts in `src/` to automate reporting or daily standups  
-3. Reference `docs/` for onboarding new members and async best practices  
-4. Monitor performance using sample dashboards in `data/`
+2. Deploy `src/standup_bot_stub.py` to simulate an async standup bot  
+3. Run `src/dashboard_placeholder.py` as a placeholder for your KPI dashboard  
+4. Reference `docs/` for onboarding new members and async best practices  
+5. Monitor performance using sample dashboards in `data/`
 
 ---
 
 ## 📋 Next Steps
 
-- Add Slack webhook integration for standup bot  
-- Connect KPI scripts to Jira/GitHub APIs  
+- Add Slack webhook integration to `standup_bot_stub.py` for real-time check-ins  
+- Connect `dashboard_placeholder.py` to actual data via Jira/GitHub APIs  
 - Build visual dashboards using Power BI or Streamlit  
+- Create more automation scripts for async workflows  
+- Encourage team contributions via a `CONTRIBUTING.md` file
 
 ---
 
